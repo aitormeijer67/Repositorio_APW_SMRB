@@ -1,0 +1,68 @@
+body {
+    padding-inline: 100px;
+    background: #fdfcdc;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+hr {
+    height: 20px;
+    border: none;
+    background-color: #00afb9;
+    border-radius: 10px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: #f07167;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+table {
+    margin-bottom: 50px;
+}
+
+table, th, td {
+    border: 2px solid #00afb9;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+
+#tabla_1{
+    background-color: #d8c3c2;
+}
+
+#tabla_2{
+    background-color: black;
+    caption, td{
+        color:white
+    }
+}
+
+#tabla_3{
+    background-color: blueviolet;
+    caption, td{
+        color:white
+    }
+}
+
+.mercury{width:24px;}
+.venus{width:60px;}
+.earth{width: 63px;}
+.mars{width: 33px;}
+.jupiter{width: 140px;}
+.saturn{width: 120px;}
+.uranus {width:25px;}
+.neptune {width:24px;}
+.pluto {width:10px;}

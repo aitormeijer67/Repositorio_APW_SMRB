@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Tercera Revolución Industrial (1914-1945)</title>
+    </head>
+    <body>
+        <a href="https://sites.google.com/educacion.navarra.es/ut2act1/inicio">Volver al índice</a>
+        <h1>Tercera Revolución Industrial (1914-1945)</h1>
+        <img src="https://i.ibb.co/27kKSPmv/tercera.jpg" width="400" alt="Ilustración de un ordenador con pantalla">
+        <h2>Introducción</h2>
+        <p>La Tercera Revolución Industrial, también llamada revolución científico-tecnológica o digital, se basó en la electrónica, las telecomunicaciones y la informática. Cambió la forma de producir, comunicarse y acceder a la información.</p>
+        <h2>Características principales</h2>
+        <ul>
+            <li>Automatización de los procesos industriales mediante robots y control programable.</li>
+            <li>Desarrollo de los semiconductores y los microprocesadores.</li>
+            <li>Expansión de los ordenadores personales.</li>
+            <li>Aparición de Internet y de las redes de comunicación globales.</li>
+            <li>Uso de nuevas fuentes de energía, como la nuclear y las renovables.</li>
+        </ul>
+        <h2>Hitos destacados</h2>
+        <ol>
+            <li>El transistor (1947).</li>
+            <li>Los primeros ordenadores electrónicos (década de 1940).</li>
+            <li>El microprocesador (1971).</li>
+            <li>El ordenador personal (años 70 y 80).</li>
+            <li>La World Wide Web (1989-1991).</li>
+        </ol>
+        <h2>Consecuencias</h2>
+        <p></p>La economía pasó a apoyarse cada vez más en los servicios y en el conocimiento. Se aceleró la globalización, cambiaron las profesiones y surgió la sociedad de la información.</p>
+        <p><a href="https://sites.google.com/educacion.navarra.es/ut2act1/segunda-revoluci%C3%B3n-industrial">Anterior: Segunda Revolución Industrial</a></p>
+        <p><a href="https://sites.google.com/educacion.navarra.es/ut2act1/cuarta-revoluci%C3%B3n-industrial">Siguiente: Cuarta Revolución Industrial</a></p>
+        <p><a href="https://sites.google.com/educacion.navarra.es/ut2act1/inicio">Volver al índice</a></p>
+    </body>
+</html>
